@@ -9,6 +9,6 @@
 #### 유용 레퍼런스 
 
 - [스마트 팩토리 (시계열 데이터와 머신러닝 프로젝트)](https://github.com/Toddbear20/Smart_factory_APS) : SARIMA를 활용해 외부 데이터 향후 3개월 단위를 예측하고, 2년간의 데이터를 Random Forest로 학습된 ML 모델로 최종 타겟 피쳐인 생산 수주량 향후 3개월 예측 
-- What is Autoregressive model? : https://www.youtube.com/watch?v=5-2C4eO4cPQ
+- What is Autoregressive model? (Forecast x based on x's history data) : https://www.youtube.com/watch?v=5-2C4eO4cPQ
 
         

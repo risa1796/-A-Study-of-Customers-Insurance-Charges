@@ -1,2 +1,4 @@
-# A-Study-of-Customers-Insurance-Charges
-exercise regression model (ML)
+# Forcasting & Regression ML exercises 
+
+### 1. A study of Customers Insurance Charges
+

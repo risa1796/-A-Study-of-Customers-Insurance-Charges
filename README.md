@@ -4,7 +4,7 @@
 
 #### 2. Deep Learning for Time Series Forecasting
 
-   2.1 Reference: [LSTM for Time Series Forecasting](https://github.com/risa1796/Forecasting-Regression-exercises/blob/main/Deep_Learning_for_Time_Series_Forecasting-2.ipynb)
+   2.1 Reference: [LSTM for Time Series Forecasting](https://github.com/risa1796/Forecasting-Regression-exercises/blob/main/Deep_Learning_for_Time_Series_Forecasting-4.ipynb)
    
        - Lessons learned: For dealing with times series analysis, it is crucial to understant how dataframe.shift() works. Explanation included in the Notebook!
    

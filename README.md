@@ -21,5 +21,9 @@
 
 - [스마트 팩토리 (시계열 데이터와 머신러닝 프로젝트)](https://github.com/Toddbear20/Smart_factory_APS) : SARIMA를 활용해 외부 데이터 향후 3개월 단위를 예측하고, 2년간의 피처 데이터로 학습된 Random Forest를 갖고 최종 타겟 변수인 생산 수주량 향후 3개월 예측 
 - [What is Autoregressive model?](https://www.youtube.com/watch?v=5-2C4eO4cPQ) 
+- LSTM ... 
+   
+    - https://www.kaggle.com/code/amirrezaeian/time-series-data-analysis-using-lstm-tutorial/notebook
+    - https://www.kaggle.com/code/amirrezaeian/time-series-data-analysis-using-lstm-tutorial/comments#440039
 
         

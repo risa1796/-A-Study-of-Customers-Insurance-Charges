@@ -24,6 +24,6 @@
 - LSTM ... 
    
     - https://www.kaggle.com/code/amirrezaeian/time-series-data-analysis-using-lstm-tutorial/notebook
-    - https://www.kaggle.com/code/amirrezaeian/time-series-data-analysis-using-lstm-tutorial/comments#440039
+    - LSTM Tutorial : https://www.kaggle.com/code/amirrezaeian/time-series-data-analysis-using-lstm-tutorial/comments#440039
 
         

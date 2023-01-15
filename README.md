@@ -12,6 +12,7 @@
          
        - TOO SMALL DATA (only around 300 days !! )
        - 🤦🏻‍♀️ The reference code used South Korea data and I used Germany's but I get bad result with overfitting problem. Need to take a closer look (soon...)
+       - 외부요인은 ? 
    
        
 

@@ -10,8 +10,7 @@
        
    2.2  [😷 Forecasting number of Covid-19 patients using CNN-LSTM](https://github.com/risa1796/Forecasting-Regression-exercises/blob/main/Forecasting_number_of_Covid_19_patients_using_CNN_LSTM.ipynb) Credits to : [PseudoLab](https://colab.research.google.com/github/Pseudo-Lab/Tutorial-Book/blob/master/book/chapters/time-series/Ch5-CNN-LSTM.ipynb?authuser=2#scrollTo=yKZhY7rpgkIW)
          
-       - TOO SMALL DATA (only around 300 days !! )
-       - 🤦🏻‍♀️ The reference code used South Korea data and I used Germany's but I get bad result with overfitting problem. Need to take a closer look (soon...)
+       - TOO SMALL DATA (only around 300 days !! ) -> Overfitting problem
        - 외부요인은 ? 
        
   2.3 [💍 E-Commerce Jewelry Sales Forcasting](https://github.com/risa1796/Forecasting-Regression-exercises/blob/main/E_Commerce_Jewelry.ipynb)

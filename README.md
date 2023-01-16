@@ -14,6 +14,8 @@
        - 외부요인은 ? 
        
   2.3 [💍 E-Commerce Jewelry Sales Forecasting](https://github.com/risa1796/Forecasting-Regression-exercises/blob/main/E_Commerce_Jewelry.ipynb)
+  
+       Lessons learned: Need for model training improvement. Coming up next : Recommendation system, Crawing & Image classification
        
 -------------------
    

@@ -13,7 +13,7 @@
        - TOO SMALL DATA (only around 300 days !! ) -> Overfitting problem
        - 외부요인은 ? 
        
-  2.3 [💍 E-Commerce Jewelry Sales Forcasting](https://github.com/risa1796/Forecasting-Regression-exercises/blob/main/E_Commerce_Jewelry.ipynb)
+  2.3 [💍 E-Commerce Jewelry Sales Forecasting](https://github.com/risa1796/Forecasting-Regression-exercises/blob/main/E_Commerce_Jewelry.ipynb)
        
 -------------------
    

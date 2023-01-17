@@ -17,7 +17,7 @@
        
   2.3 [💍 E-Commerce Jewelry Sales Forecasting](https://github.com/risa1796/Forecasting-Regression-exercises/blob/main/E_Commerce_Jewelry.ipynb)
   
-       - Notebook contains EDA, Forecasting, Product recommendation. Coming up next: Image Scraping -> Image classificiation
+       - Notebook contains EDA, Forecasting, Product recommendation. Coming up next: Image Scraping -> Image classification
        
 -------------------
    

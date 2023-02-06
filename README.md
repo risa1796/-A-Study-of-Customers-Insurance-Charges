@@ -18,6 +18,11 @@
   2.3 [💍 E-Commerce Jewelry Sales Forecasting](https://github.com/risa1796/Forecasting-Regression-exercises/blob/main/E_Commerce_Jewelry.ipynb)
   
        - Notebook contains EDA, Forecasting, Product recommendation. 
+       - for i in range(1, 11):
+             plt.subplot(5, 2, i)
+             typ = jewelry_types[i-1]
+
+       
    2.3.1 [Image Scraping and multi classification](https://github.com/risa1796/Computer-Vision-exercises/blob/main/Jewelry_image_classification.ipynb)
        
 -------------------

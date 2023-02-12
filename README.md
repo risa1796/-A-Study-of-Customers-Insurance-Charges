@@ -23,7 +23,7 @@
              typ = jewelry_types[i-1]
 
        
-   2.3.1 [Image Scraping and multi classification](https://github.com/risa1796/Computer-Vision-exercises/blob/main/Jewelry_image_classification.ipynb)
+   2.3.1 [Customer subscription data](https://github.com/risa1796/Forecasting-Regression-exercises/blob/main/customer-subscription-data.ipynb)
        
 -------------------
    
